@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\vjezba6Nasljedivanje\bin\Debug\vjezba6Nasljedivanje.exe.config
+C:\Users\ucenik\source\repos\vjezba6Nasljedivanje\bin\Debug\vjezba6Nasljedivanje.exe
+C:\Users\ucenik\source\repos\vjezba6Nasljedivanje\bin\Debug\vjezba6Nasljedivanje.pdb
+C:\Users\ucenik\source\repos\vjezba6Nasljedivanje\obj\Debug\vjezba6Nasljedivanje.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\vjezba6Nasljedivanje\obj\Debug\vjezba6Nasljedivanje.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\vjezba6Nasljedivanje\obj\Debug\vjezba6Nasljedivanje.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\vjezba6Nasljedivanje\obj\Debug\vjezba6Nasljedivanje.exe
+C:\Users\ucenik\source\repos\vjezba6Nasljedivanje\obj\Debug\vjezba6Nasljedivanje.pdb
